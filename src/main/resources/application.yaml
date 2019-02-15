@@ -1,5 +1,6 @@
+server:
+  port: 20001
+
 spring:
   application:
     name: nine-nacos-config-server
-server:
-  port: 20001
