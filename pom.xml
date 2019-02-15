@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>nine-nacos-config-server</artifactId>
+    <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>nine-nacos-config-server</name>
     <description>nine-nacos-config-server</description>
