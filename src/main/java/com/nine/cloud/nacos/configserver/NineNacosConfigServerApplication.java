@@ -1,4 +1,4 @@
-package com.nine.cloud.nine.nacos.configserver;
+package com.nine.cloud.nacos.configserver;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

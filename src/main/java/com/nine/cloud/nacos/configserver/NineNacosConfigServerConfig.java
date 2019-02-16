@@ -1,4 +1,4 @@
-package com.nine.cloud.nine.nacos.configserver;
+package com.nine.cloud.nacos.configserver;
 
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.context.annotation.Configuration;
@@ -11,5 +11,5 @@ import org.springframework.context.annotation.Configuration;
  */
 @Configuration
 @RefreshScope
-public class Config {
+public class NineNacosConfigServerConfig {
 }
