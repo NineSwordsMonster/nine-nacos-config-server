@@ -1,4 +1,4 @@
-package com.nine.cloud.nacos.configserver;
+package com.nine.cloud.nacos.discovery;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.nine.cloud.nacos.configserver;
+package com.nine.cloud.nacos.discovery;
 
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
