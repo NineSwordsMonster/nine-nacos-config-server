@@ -3,12 +3,14 @@ spring:
     nacos:
       config:
         server-addr: 127.0.0.1:8841
-        prefix: nine-nacos-config-server
-        file-extension: yaml
         cluster-name: nine
-        namespace: dev
+        namespace: 6422ef1c-8cdb-486a-a6de-e3141bc71310
+        prefix: nine-nacos-config-server
+        group: demo
+        file-extension: yaml
 
       discovery:
-        cluster-name: nine
         server-addr: 127.0.0.1:8841
-        namespace: dev
+        cluster-name: nine
+        namespace: 6422ef1c-8cdb-486a-a6de-e3141bc71310
+        service: nine-nacos-config-server
